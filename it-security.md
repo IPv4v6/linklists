@@ -29,6 +29,6 @@
 ## penetration testing
 
 * [OWASP Testing Guide](https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents)
-* [PCI DSS Penetration Testing Guidance](https://www.pcisecuritystandards.org/documents/Penetration_Testing_Guidance_March_2015.pdf)
+* [PCI DSS Penetration Testing Guidance](https://www.pcisecuritystandards.org/documents/Penetration-Testing-Guidance-v1_1.pdf)
 * [CREST Penetration Testing Guide](https://www.crest-approved.org/wp-content/uploads/CREST-Penetration-Testing-Guide.pdf)
 * [FedRAMP Penetration Test Guidance](https://www.fedramp.gov/assets/resources/documents/CSP_Penetration_Test_Guidance.pdf)
