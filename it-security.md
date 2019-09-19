@@ -32,3 +32,9 @@
 * [PCI DSS Penetration Testing Guidance](https://www.pcisecuritystandards.org/documents/Penetration-Testing-Guidance-v1_1.pdf)
 * [CREST Penetration Testing Guide](https://www.crest-approved.org/wp-content/uploads/CREST-Penetration-Testing-Guide.pdf)
 * [FedRAMP Penetration Test Guidance](https://www.fedramp.gov/assets/resources/documents/CSP_Penetration_Test_Guidance.pdf)
+
+## wordlists
+
+* [crunch - wordlist generator](https://sourceforge.net/projects/crunch-wordlist/)
+* [RSMangler](https://github.com/digininja/RSMangler)
+* [Daniel Miessler's collection](https://github.com/danielmiessler/SecLists/tree/master/Passwords)
