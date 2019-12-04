@@ -11,3 +11,5 @@
 * [Autopsy](https://www.sleuthkit.org/autopsy/)
 * [Libewf](https://github.com/libyal/libewf/)
 * [Volatility Framework](https://www.volatilityfoundation.org)
+* [GRR Rapid Response](https://github.com/google/grr/)
+* [Velociraptor](https://github.com/Velocidex/velociraptor/)
