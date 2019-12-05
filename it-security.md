@@ -17,6 +17,12 @@
 * [CTF Field Guide](https://trailofbits.github.io/ctf/)
 * [CTF write-ups](https://github.com/ctfs)
 
+## dynamic binary instrumentation
+
+* [Frida](https://frida.re)
+* [DynamoRIO](https://www.dynamorio.org)
+* [QuarkslaB Dynamic binary Instrumentation](https://qbdi.quarkslab.com)
+
 ## password cracking / brute forcing
 
 * [John the Ripper](https://www.openwall.com/john/)
