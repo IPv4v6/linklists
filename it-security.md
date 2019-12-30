@@ -5,8 +5,10 @@
 * [OpenSecurityTraining.info](http://opensecuritytraining.info)
 * [Cybrary](https://www.cybrary.it) - Free and Open Source Learning for Cyber Security, IT and more
 * [Offensive Computer Security](http://www.cs.fsu.edu/%7Eredwood/OffensiveComputerSecurity/)
+* [Web Security Academy](https://portswigger.net/web-security) - from the creators of Burp Suite
 * [Hack The Box](https://www.hackthebox.eu)
 * [PentesterLab](https://pentesterlab.com/exercises/)
+* [Practical Pentest Labs](https://practicalpentestlabs.com)
 * [VulnHub](https://www.vulnhub.com)
 * [Hacker101](https://www.hacker101.com)
 
