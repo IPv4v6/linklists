@@ -1,5 +1,12 @@
 # IT Security
 
+## bug bounty
+
+* [Bugcrowd](https://www.bugcrowd.com)
+* [HackerOne](https://www.hackerone.com)
+* [HackenProof](https://hackenproof.com)
+* [Yes We Hack](https://www.yeswehack.com)
+
 ## courses / training
 
 * [OpenSecurityTraining.info](http://opensecuritytraining.info)
