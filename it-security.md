@@ -14,10 +14,14 @@
 * [Offensive Computer Security](http://www.cs.fsu.edu/%7Eredwood/OffensiveComputerSecurity/)
 * [Web Security Academy](https://portswigger.net/web-security) - from the creators of Burp Suite
 * [Hack The Box](https://www.hackthebox.eu)
+* [TryHackMe](https://tryhackme.com)
+* [Root Me](https://www.root-me.org)
 * [PentesterLab](https://pentesterlab.com/exercises/)
 * [Practical Pentest Labs](https://practicalpentestlabs.com)
 * [VulnHub](https://www.vulnhub.com)
 * [Hacker101](https://www.hacker101.com)
+* [pwnable.xyz](https://pwnable.xyz)
+* [crackmes.one](https://crackmes.one)
 
 ## CTF (Capture the Flag)
 
