@@ -7,6 +7,17 @@
 * [HackenProof](https://hackenproof.com)
 * [Yes We Hack](https://www.yeswehack.com)
 
+## communities / mailing lists
+* [Information Security subreddit](https://www.reddit.com/r/netsec/)
+* [Web Security Research subreddit](https://www.reddit.com/r/websecurityresearch/)
+* [hacking: security in practice subreddit](https://www.reddit.com/r/hacking/)
+* [Reverse Engineering subreddit](https://www.reddit.com/r/ReverseEngineering/)
+* [Information Security Stack Exchange](https://security.stackexchange.com)
+* [Packet Storm](https://packetstormsecurity.com)
+* [Bugtraq](https://www.securityfocus.com/archive)
+* [Open Source Security](https://www.openwall.com/lists/oss-security/)
+* [Full Disclosure](https://seclists.org/fulldisclosure/)
+
 ## courses / training
 
 * [OpenSecurityTraining.info](http://opensecuritytraining.info)
