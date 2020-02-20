@@ -7,6 +7,11 @@
 * [HackenProof](https://hackenproof.com)
 * [Yes We Hack](https://www.yeswehack.com)
 
+## C2 (Command & Control)
+
+* [Koadic COM Command & Control](https://github.com/zerosum0x0/koadic) - Windows post-exploitation rootkit
+* [Merlin](https://github.com/Ne0nd0g/merlin) - cross-platform post-exploitation Command & Control server and agent
+
 ## communities / mailing lists
 * [Information Security subreddit](https://www.reddit.com/r/netsec/)
 * [Web Security Research subreddit](https://www.reddit.com/r/websecurityresearch/)
@@ -62,6 +67,12 @@
 * [PCI DSS Penetration Testing Guidance](https://www.pcisecuritystandards.org/documents/Penetration-Testing-Guidance-v1_1.pdf)
 * [CREST Penetration Testing Guide](https://www.crest-approved.org/wp-content/uploads/CREST-Penetration-Testing-Guide.pdf)
 * [FedRAMP Penetration Test Guidance](https://www.fedramp.gov/assets/resources/documents/CSP_Penetration_Test_Guidance.pdf)
+
+## reconnaissance
+
+* [OWASP Amass](https://github.com/OWASP/Amass)
+* [Natlas](https://github.com/natlas/natlas)
+* [SpiderFoot](https://github.com/smicallef/spiderfoot)
 
 ## wordlists
 
