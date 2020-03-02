@@ -27,8 +27,10 @@
 
 * [OpenSecurityTraining.info](http://opensecuritytraining.info)
 * [Cybrary](https://www.cybrary.it) - Free and Open Source Learning for Cyber Security, IT and more
-* [Offensive Computer Security](http://www.cs.fsu.edu/%7Eredwood/OffensiveComputerSecurity/)
+* [CS 161 Computer Security](http://inst.eecs.berkeley.edu/~cs161/archives.html) - University of California at Berkeley
+* [Offensive Computer Security](http://www.cs.fsu.edu/%7Eredwood/OffensiveComputerSecurity/) - Florida State University
 * [Web Security Academy](https://portswigger.net/web-security) - from the creators of Burp Suite
+* [Bugcrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
 * [Hack The Box](https://www.hackthebox.eu)
 * [TryHackMe](https://tryhackme.com)
 * [Root Me](https://www.root-me.org)
@@ -37,7 +39,9 @@
 * [VulnHub](https://www.vulnhub.com)
 * [Hacker101](https://www.hacker101.com)
 * [pwnable.xyz](https://pwnable.xyz)
+* [pwnable.kr](https://pwnable.kr)
 * [crackmes.one](https://crackmes.one)
+* [OverTheWire: Wargames](https://overthewire.org/wargames/)
 
 ## CTF (Capture the Flag)
 
