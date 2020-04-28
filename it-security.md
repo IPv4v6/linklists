@@ -42,6 +42,11 @@
 * [pwnable.kr](https://pwnable.kr)
 * [crackmes.one](https://crackmes.one)
 * [OverTheWire: Wargames](https://overthewire.org/wargames/)
+* [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
+* [WebGoat](https://github.com/WebGoat/WebGoat)
+* [OWASP Mutillidae II](https://github.com/webpwnized/mutillidae)
+* [WackoPicko](https://github.com/adamdoupe/WackoPicko)
+* [Metasploitable3](https://github.com/rapid7/metasploitable3)
 
 ## CTF (Capture the Flag)
 
