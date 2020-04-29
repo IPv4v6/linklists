@@ -69,6 +69,7 @@
 * [Medusa](https://github.com/jmk-foofus/medusa)
 * [Patator](https://github.com/lanjelot/patator)
 * [Ncrack](https://nmap.org/ncrack/)
+* [Crowbar](https://github.com/galkan/crowbar)
 
 ## penetration testing
 
