@@ -84,6 +84,12 @@
 * [Natlas](https://github.com/natlas/natlas)
 * [SpiderFoot](https://github.com/smicallef/spiderfoot)
 
+## web application security testing
+
+* [OWASP Zed Attack Proxy](https://www.zaproxy.org)
+* [Burp Suite](https://portswigger.net/burp)
+* [sqlmap](http://sqlmap.org)
+
 ## wordlists
 
 * [crunch - wordlist generator](https://sourceforge.net/projects/crunch-wordlist/)
