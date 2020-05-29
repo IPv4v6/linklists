@@ -61,6 +61,10 @@
 * [DynamoRIO](https://www.dynamorio.org)
 * [QuarkslaB Dynamic binary Instrumentation](https://qbdi.quarkslab.com)
 
+## magazines
+* [Phrack](http://phrack.org)
+* [Paged Out!](https://pagedout.institute)
+
 ## password cracking / brute forcing
 
 * [John the Ripper](https://www.openwall.com/john/)
