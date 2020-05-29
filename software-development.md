@@ -9,3 +9,11 @@
 * [x86 Assembly Language Programming](https://cs.lmu.edu/~ray/notes/x86assembly/)
 * [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/)
 * [X86 Opcode and Instruction Reference](http://ref.x86asm.net)
+
+### C / C++
+
+* [The GNU C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+* [The GNU C Library](https://www.gnu.org/software/libc/manual/html_node/index.html)
+* [C / C++ reference wiki](https://en.cppreference.com)
+* [C Programming Wikibook](https://en.wikibooks.org/wiki/C_Programming)
+* [C++ Programming Wikibook](https://en.wikibooks.org/wiki/C%2B%2B_Programming)
