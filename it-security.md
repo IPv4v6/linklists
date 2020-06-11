@@ -11,6 +11,7 @@
 
 * [Koadic COM Command & Control](https://github.com/zerosum0x0/koadic) - Windows post-exploitation rootkit
 * [Merlin](https://github.com/Ne0nd0g/merlin) - cross-platform post-exploitation Command & Control server and agent
+* [Pupy](https://github.com/n1nj4sec/pupy)
 
 ## communities / mailing lists
 * [Information Security subreddit](https://www.reddit.com/r/netsec/)
@@ -29,6 +30,8 @@
 * [Cybrary](https://www.cybrary.it) - Free and Open Source Learning for Cyber Security, IT and more
 * [CS 161 Computer Security](http://inst.eecs.berkeley.edu/~cs161/archives.html) - University of California at Berkeley
 * [Offensive Computer Security](http://www.cs.fsu.edu/%7Eredwood/OffensiveComputerSecurity/) - Florida State University
+* [Secure Programming](https://www.inf.ed.ac.uk/teaching/courses/sp/) - University of Edinburgh
+* [Computer Security](https://www.inf.ed.ac.uk/teaching/courses/cs/index-2017.html) - University of Edinburgh
 * [Web Security Academy](https://portswigger.net/web-security) - from the creators of Burp Suite
 * [Bugcrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
 * [Hack The Box](https://www.hackthebox.eu)
@@ -81,6 +84,7 @@
 * [PCI DSS Penetration Testing Guidance](https://www.pcisecuritystandards.org/documents/Penetration-Testing-Guidance-v1_1.pdf)
 * [CREST Penetration Testing Guide](https://www.crest-approved.org/wp-content/uploads/CREST-Penetration-Testing-Guide.pdf)
 * [FedRAMP Penetration Test Guidance](https://www.fedramp.gov/assets/resources/documents/CSP_Penetration_Test_Guidance.pdf)
+* [So You Want to Be a Pentester?](https://www.youtube.com/watch?v=cKNNKoSAHkI)
 
 ## reconnaissance
 
