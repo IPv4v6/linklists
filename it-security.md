@@ -86,6 +86,14 @@
 * [FedRAMP Penetration Test Guidance](https://www.fedramp.gov/assets/resources/documents/CSP_Penetration_Test_Guidance.pdf)
 * [So You Want to Be a Pentester?](https://www.youtube.com/watch?v=cKNNKoSAHkI)
 
+## pentest frameworks
+
+* [Metasploit](https://www.metasploit.com)
+* [Sn1per](https://github.com/1N3/Sn1per)
+* [The PenTesters Framework](https://github.com/trustedsec/ptf)
+* [Dradis Framework](https://github.com/dradis/dradis-ce)
+* [Faraday](https://github.com/infobyte/faraday)
+
 ## reconnaissance
 
 * [OWASP Amass](https://github.com/OWASP/Amass)
