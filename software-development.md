@@ -17,3 +17,7 @@
 * [C / C++ reference wiki](https://en.cppreference.com)
 * [C Programming Wikibook](https://en.wikibooks.org/wiki/C_Programming)
 * [C++ Programming Wikibook](https://en.wikibooks.org/wiki/C%2B%2B_Programming)
+* [Learn C and C++ Programming](https://www.cprogramming.com)
+* [Learn C++](https://www.learncpp.com)
+* [C Tutorial](https://www.tutorialspoint.com/cprogramming/)
+* [SEI CERT C Coding Standard](https://wiki.sei.cmu.edu/confluence/display/c/)
