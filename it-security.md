@@ -106,6 +106,11 @@
 * [Burp Suite](https://portswigger.net/burp)
 * [sqlmap](http://sqlmap.org)
 
+## wireless network security testing
+
+* [Aircrack-ng](https://www.aircrack-ng.org)
+* [hcxtools](https://github.com/ZerBea/hcxtools)
+
 ## wordlists
 
 * [crunch - wordlist generator](https://sourceforge.net/projects/crunch-wordlist/)
