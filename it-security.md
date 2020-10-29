@@ -99,6 +99,12 @@
 * [OWASP Amass](https://github.com/OWASP/Amass)
 * [Natlas](https://github.com/natlas/natlas)
 * [SpiderFoot](https://github.com/smicallef/spiderfoot)
+* [dnstwist](https://github.com/elceef/dnstwist)
+* [Altdns](https://github.com/infosec-au/altdns)
+* [Sublist3r](https://github.com/aboul3la/Sublist3r)
+* [Recon-ng](https://github.com/lanmaster53/recon-ng)
+* [theHarvester](https://github.com/laramies/theHarvester)
+* [FOCA](https://github.com/ElevenPaths/FOCA)
 
 ## web application security testing
 
