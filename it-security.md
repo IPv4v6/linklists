@@ -9,6 +9,7 @@
 
 ## C2 (Command & Control)
 
+* [Empire](https://github.com/BC-SECURITY/Empire)
 * [Koadic COM Command & Control](https://github.com/zerosum0x0/koadic) - Windows post-exploitation rootkit
 * [Merlin](https://github.com/Ne0nd0g/merlin) - cross-platform post-exploitation Command & Control server and agent
 * [Pupy](https://github.com/n1nj4sec/pupy)
