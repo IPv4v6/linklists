@@ -123,3 +123,4 @@
 * [crunch - wordlist generator](https://sourceforge.net/projects/crunch-wordlist/)
 * [RSMangler](https://github.com/digininja/RSMangler)
 * [Daniel Miessler's collection](https://github.com/danielmiessler/SecLists/tree/master/Passwords)
+* [Assetnote wordlists](https://wordlists.assetnote.io)
