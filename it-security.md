@@ -36,6 +36,7 @@
 * [Web Security Academy](https://portswigger.net/web-security) - from the creators of Burp Suite
 * [Bugcrowd University](https://www.bugcrowd.com/hackers/bugcrowd-university/)
 * [Hack The Box](https://www.hackthebox.eu)
+* [HTB Academy](https://academy.hackthebox.eu)
 * [TryHackMe](https://tryhackme.com)
 * [Root Me](https://www.root-me.org)
 * [PentesterLab](https://pentesterlab.com/exercises/)
@@ -51,6 +52,7 @@
 * [OWASP Mutillidae II](https://github.com/webpwnized/mutillidae)
 * [WackoPicko](https://github.com/adamdoupe/WackoPicko)
 * [Metasploitable3](https://github.com/rapid7/metasploitable3)
+* [Damn Vulnerable Web Application (DVWA)](https://dvwa.co.uk)
 
 ## CTF (Capture the Flag)
 
