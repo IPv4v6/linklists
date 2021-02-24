@@ -5,13 +5,16 @@
 * [Bugcrowd](https://www.bugcrowd.com)
 * [HackerOne](https://www.hackerone.com)
 * [HackenProof](https://hackenproof.com)
+* [Intigriti](https://www.intigriti.com)
 * [Yes We Hack](https://www.yeswehack.com)
 
 ## C2 (Command & Control)
 
 * [Empire](https://github.com/BC-SECURITY/Empire)
+* [Starkiller](https://github.com/BC-SECURITY/Starkiller) - Empire frontend
 * [Koadic COM Command & Control](https://github.com/zerosum0x0/koadic) - Windows post-exploitation rootkit
 * [Merlin](https://github.com/Ne0nd0g/merlin) - cross-platform post-exploitation Command & Control server and agent
+* [PoshC2](https://github.com/nettitude/PoshC2)
 * [Pupy](https://github.com/n1nj4sec/pupy)
 
 ## communities / mailing lists
@@ -42,6 +45,7 @@
 * [PentesterLab](https://pentesterlab.com/exercises/)
 * [Practical Pentest Labs](https://practicalpentestlabs.com)
 * [VulnHub](https://www.vulnhub.com)
+* [Proving Grounds](https://portal.offensive-security.com) - by Offensive Security
 * [Hacker101](https://www.hacker101.com)
 * [pwnable.xyz](https://pwnable.xyz)
 * [pwnable.kr](https://pwnable.kr)
