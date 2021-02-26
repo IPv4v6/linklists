@@ -107,11 +107,14 @@
 * [Natlas](https://github.com/natlas/natlas)
 * [SpiderFoot](https://github.com/smicallef/spiderfoot)
 * [dnstwist](https://github.com/elceef/dnstwist)
+* [DNSRecon](https://github.com/darkoperator/dnsrecon)
 * [Altdns](https://github.com/infosec-au/altdns)
 * [Sublist3r](https://github.com/aboul3la/Sublist3r)
+* [URLCrazy](https://github.com/urbanadventurer/urlcrazy)
 * [Recon-ng](https://github.com/lanmaster53/recon-ng)
 * [theHarvester](https://github.com/laramies/theHarvester)
 * [FOCA](https://github.com/ElevenPaths/FOCA)
+* [WitnessMe](https://github.com/byt3bl33d3r/WitnessMe)
 
 ## web application security testing
 
