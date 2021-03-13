@@ -121,6 +121,11 @@
 * [OWASP Zed Attack Proxy](https://www.zaproxy.org)
 * [Burp Suite](https://portswigger.net/burp)
 * [sqlmap](http://sqlmap.org)
+* [Nikto](https://github.com/sullo/nikto)
+* [Gobuster](https://github.com/OJ/gobuster)
+* [feroxbuster](https://github.com/epi052/feroxbuster)
+* [ffuf](https://github.com/ffuf/ffuf)
+* [Wfuzz](https://github.com/xmendez/wfuzz)
 
 ## wireless network security testing
 
