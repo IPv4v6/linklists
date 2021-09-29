@@ -124,8 +124,14 @@
 * [Nikto](https://github.com/sullo/nikto)
 * [Gobuster](https://github.com/OJ/gobuster)
 * [feroxbuster](https://github.com/epi052/feroxbuster)
+* [dirsearch](https://github.com/maurosoria/dirsearch)
 * [ffuf](https://github.com/ffuf/ffuf)
 * [Wfuzz](https://github.com/xmendez/wfuzz)
+* [Wapiti](https://sourceforge.net/projects/wapiti/)
+* [w3af](https://github.com/andresriancho/w3af)
+* [XSStrike](https://github.com/s0md3v/XSStrike)
+* [GraphQLmap](https://github.com/swisskyrepo/GraphQLmap)
+* [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) - useful payloads and bypasses for web application security
 
 ## wireless network security testing
 
