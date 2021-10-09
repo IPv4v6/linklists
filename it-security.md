@@ -108,13 +108,19 @@
 * [SpiderFoot](https://github.com/smicallef/spiderfoot)
 * [dnstwist](https://github.com/elceef/dnstwist)
 * [DNSRecon](https://github.com/darkoperator/dnsrecon)
+* [MassDNS](https://github.com/blechschmidt/massdns)
+* [dnsgen](https://github.com/ProjectAnte/dnsgen)
 * [Altdns](https://github.com/infosec-au/altdns)
 * [Sublist3r](https://github.com/aboul3la/Sublist3r)
+* [Subfinder](https://github.com/projectdiscovery/subfinder)
 * [URLCrazy](https://github.com/urbanadventurer/urlcrazy)
 * [Recon-ng](https://github.com/lanmaster53/recon-ng)
 * [theHarvester](https://github.com/laramies/theHarvester)
 * [FOCA](https://github.com/ElevenPaths/FOCA)
 * [WitnessMe](https://github.com/byt3bl33d3r/WitnessMe)
+* [WhatWeb](https://github.com/urbanadventurer/WhatWeb)
+* [GoSpider](https://github.com/jaeles-project/gospider)
+* [reNgine](https://github.com/yogeshojha/rengine) - automated reconnaissance framework
 
 ## web application security testing
 
