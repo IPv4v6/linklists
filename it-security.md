@@ -12,6 +12,7 @@
 
 * [Empire](https://github.com/BC-SECURITY/Empire)
 * [Starkiller](https://github.com/BC-SECURITY/Starkiller) - Empire frontend
+* [Havoc Framework](https://github.com/HavocFramework/Havoc)
 * [Koadic COM Command & Control](https://github.com/zerosum0x0/koadic) - Windows post-exploitation rootkit
 * [Merlin](https://github.com/Ne0nd0g/merlin) - cross-platform post-exploitation Command & Control server and agent
 * [PoshC2](https://github.com/nettitude/PoshC2)
