@@ -31,6 +31,7 @@
 
 ## courses / training
 
+* [TheXero Training Academy](https://training.thexero.co.uk) - Premium WiFi Pentesting Mentorship
 * [OpenSecurityTraining.info](http://opensecuritytraining.info)
 * [Cybrary](https://www.cybrary.it) - Free and Open Source Learning for Cyber Security, IT and more
 * [CS 161 Computer Security](http://inst.eecs.berkeley.edu/~cs161/archives.html) - University of California at Berkeley
